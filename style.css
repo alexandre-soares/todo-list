@@ -86,3 +86,7 @@ form button:hover {
 	background: #d4edd9;
 	color: #145824;
 }
+
+.todo-item {
+	padding: 0rem 1rem;
+}

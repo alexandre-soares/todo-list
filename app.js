@@ -84,7 +84,7 @@ function deleteCheck(e) {
 function filterTodo(e) {
 	const todos = todoList.childNodes;
 
-	console.log(e.target.value);
+	// console.log(e.target.value);
 
 	// console.log(todos);
 
